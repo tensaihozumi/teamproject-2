@@ -7,9 +7,7 @@ package base;
  * @author (작성자 이름) 
  * @version (버전번호나 날짜)
  */
-public class Circle
+ public class Circle
 {
-   int x,y;
-   
-   
+    
 }
