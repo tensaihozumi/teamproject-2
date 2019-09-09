@@ -22,6 +22,6 @@ target1.height=50
 target1.name=Shape
 target1.showInterface=false
 target1.type=InterfaceTarget
-target1.width=80
+target1.width=100
 target1.x=220
 target1.y=10
