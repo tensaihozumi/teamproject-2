@@ -23,5 +23,5 @@ target1.name=Myapp
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=80
-target1.x=260
-target1.y=50
+target1.x=160
+target1.y=10

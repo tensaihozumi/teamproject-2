@@ -2,10 +2,10 @@ package main;
 import base.Circle;
 
 /**
- * クラス Myapp の注釈をここに書きます.
+ * 여기에 Myapp 클래스 설명을 작성하십시오.
  * 
- * @author (あなたの名前)
- * @version (バージョン番号もしくは日付)
+ * @author (작성자 이름) 
+ * @version (버전번호나 날짜)
  */
 public class Myapp
 {
@@ -14,7 +14,7 @@ public class Myapp
         Circle c2 = new Circle(2,3,5);
         System.out.println("원1:" + c1);
         System.out.println("원2:" + c2);
-        if(c1 == c2){
+        if(c1.equals(c2)){
             System.out.println("같은 원");
         }
         else{
