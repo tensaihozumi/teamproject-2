@@ -9,27 +9,16 @@ package main;
  */
 public class Myapp
 {
-    // インスタンス変数 - コードに合わせて説明を書き換えます.
-    private int x;
-
-    /**
-     * Myapp クラスのインスタンスのためのコンストラクタ
-     */
-    public Myapp()
-    {
-        // インスタンス変数の初期化
-        x = 0;
-    }
-
-    /**
-     * メソッドの例 - メソッドとともにこのコメントも置き換えてください.
-     * 
-     * @param  y    メソッドのためのサンプル引数
-     * @return        x と y の和
-     */
-    public int sampleMethod(int y)
-    {
-        // ここにあなたのコードを書きます
-        return x + y;
+    public static void main(String[] args){
+        Circle c1 = new Circle(2,3,5);
+        Circle c2 = new Circle(2,3,10);
+        System.out.println("원1:" + c1);
+        System.out.println("원2:" + c2);
+        if(equals)
+            System.out.println("같은 원");
+        else
+            System.out.println("서로 다른 원");
+          
+        
     }
 }
