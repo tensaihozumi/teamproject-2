@@ -3,8 +3,8 @@ package myInterface;
 /**
  * インターフェース Shape のための注釈をここに書きます.
  * 
- * @author (あなたの名前) 
- * @version (バージョン番号もしくは日付)
+ * @author (2018315058 Ota oaki/2018315057 Matubara keito/2018315054 Hozumi yoshiaki) 
+ * @version (2019/9/10)
  */
 
 public interface Shape{

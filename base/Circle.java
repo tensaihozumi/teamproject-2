@@ -6,9 +6,11 @@ import myInterface.Shape;
 /**
  * クラス Circle の注釈をここに書きま?��?.
  * 
- * @author (あなた�??��名前)
- * @version (バ�??��ジョン番号もしく�??��日?��?)
+ * @author (2018315058 Ota oaki/2018315057 Matubara keito/2018315054 Hozumi yoshiaki)
+ * @version (2019/9/10)
  */
+
+
 public class Circle implements Shape{
     public int x,y;
     public int radius;
@@ -18,8 +20,8 @@ public class Circle implements Shape{
         this.radius = radius;
     }
     public boolean equals(Object obj){
-        Shape p = (Shape)obj;
-        if( x == p.x && y == p.y && radius == p.radius)
+        Circle p = (Circle)obj;
+        if( x == p.x && y == p.y)
         return true;
         else return false;
     }
@@ -33,3 +35,6 @@ public class Circle implements Shape{
         System.out.println("case3");
     }
 }
+
+
+
