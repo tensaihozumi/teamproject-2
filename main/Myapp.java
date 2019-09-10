@@ -4,8 +4,8 @@ import base.Circle;
 /**
  * 여기에 Myapp 클래스 설명을 작성하십시오.
  * 
- * @author (작성자 이름) 
- * @version (버전번호나 날짜)
+ * @author (2018315058 Ota oaki/2018315057 Matubara keito/2018315054 Hozumi yoshiaki) 
+ * @version (2019/9/10)
  */
 public class Myapp
 {
