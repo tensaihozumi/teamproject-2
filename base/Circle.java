@@ -24,12 +24,12 @@ public class Circle implements Shape{
         else return false;
     }
     public void draw(){
-        System.out.println("c1");
+        System.out.println("case1");
     }
     public void getArea(){
-        System.out.println("c2");
+        System.out.println("case2");
     }
     public void redraw(){
-        System.out.println("c3");
+        System.out.println("case3");
     }
 }
