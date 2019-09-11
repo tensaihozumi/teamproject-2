@@ -21,7 +21,7 @@ public class Circle implements Shape{
     }
     public boolean equals(Object obj){
         Circle p = (Circle)obj;
-        if( x == p.x && y == p.y)
+        if( x == p.x && y == p.y && radius == p.radius)
         return true;
         else return false;
     }
